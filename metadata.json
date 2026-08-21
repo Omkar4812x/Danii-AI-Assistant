@@ -1,0 +1,5 @@
+{
+  "name": "Danii AI Assistant",
+  "description": "A sassy, witty, and real-time voice-to-voice AI assistant powered by Gemini Live.",
+  "requestFramePermissions": ["microphone"]
+}
